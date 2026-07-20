@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I enjoy learning new technologies, building practi
 | **Algorithm Design and Analysis** | A C++ implementation and analysis of sorting and searching algorithms using generated datasets. | C++17, CMake | Dataset generation, radix sort, heap sort, hash-table search, execution timing, step-by-step algorithm output | [View Project](https://github.com/baifan1366/algo-assignment) |
 | **LIS-CLICK** | A conference and publication management platform for submissions, reviewing, payments, scheduling, and certificates. | Laravel 10, PHP, Blade, Vite, MySQL | Paper submission, reviewer assignment, evaluations, payment tracking, schedules, publications, certificates, PDF generation | [View Project](https://github.com/TJH867628/lis-click) |
 | **AAIRA Homestay** | A homestay booking and administration platform for customers and property managers. | Laravel 10, PHP, Blade, MySQL, DomPDF | Homestay search, bookings, payments, invoices, reviews, cancellation requests, price and property management | [View Project](https://github.com/chaiyuxuan666/AAIRA-HOMESTAY) |
-| **Robot War** | A robot battle project completed as part of a collaborative development exercise. | Details unavailable | Repository is currently private, renamed, or unavailable | [View Project](https://github.com/TJH867628/robot-war) |
-| **Rejuvenate** | A collaborative software project currently unavailable for public inspection. | Details unavailable | Repository is currently private, renamed, or unavailable | [View Project](https://github.com/ZubayrRapid/rejuvenate) |
+| **Robot War** | A robot battle project completed as part of a collaborative development exercise. | C++ | Game Logic for Robot War | [View Project](https://github.com/TJH867628/robot-war) |
+| **Rejuvenate** | A collaborative software project currently unavailable for public inspection. | Laravel, PHP, Angular, SQL | Spa search, bookings, reviews, cancellation requests, price and spa management | [View Project](https://github.com/ZubayrRapid/rejuvenate) |
 
 ## What You Can Expect
 
